@@ -1,5 +1,12 @@
-<html>
+<html style="background-color:#ffffff;"></html>>
 <head>
+
+    <style>
+        h1 {text-align: center;}
+    </style>
+
+    <h1 style="color:#ff1e1e; font-size:40px"> Pierangelo Somma </h1>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curriculum Vitae</title>
@@ -13,11 +20,12 @@
             margin-bottom: 20px;
         }
     </style>
+
 </head>
 <body>
     <div class="container">
         <div class="column">
-            <h3 style="color:rgb(255, 115, 0); font-size:25px"> Dettagli Personali </h3>
+            <h3 style="color:#ff1e1e; background-color:#00e1ff; font-size:30px"> DETTAGLI PERSONALI </h3>
             
                     <ul style="font-size:15px" > 
                 
@@ -32,7 +40,7 @@
                     </ul>
         </div>
         <div class="column">
-            <h3 style="color:rgb(255, 115, 0); font-size:30px"> PROFILO </h3>
+            <h3 style="color:#ff1e1e; background-color:#00e1ff; font-size:30px"> PROFILO </h3>
             <p style="font-size:16px"> 
                 Studente al quarto anno della scuola secondaria di secondo grado, 
                 presso il liceo TIto Lucrezio Caro di Cittadella.
@@ -45,7 +53,7 @@
 
     <div class="container">
         <div class="column">
-            <h3 style="color:rgb(255, 115, 0); font-size:25px"> Passioni </h3>
+            <h3 style="color:#ff1e1e; background-color:#00e1ff; font-size:30px"> PASSIONI </h3>
                     <ul style="font-size:15px">
                         <li> 
                             <p> Calcio </p>
@@ -63,18 +71,19 @@
 
         </div>
         <div class="column">
-            <h1>Competenze Tecniche</h1>
-            <p>Linguaggi di Programmazione: HTML, CSS, JavaScript, Python</p>
-            <p>Framework: React, Django</p>
-            <p>Database: MySQL, PostgreSQL</p>
+            <h3 style="color:#ff1e1e; background-color:#00e1ff; font-size:30px"> ESPERIENZE LAVORATIVE </h3>
+            <p style=" font-size:16px"> 
+                
+            </p>
         </div>
     </div>
     <div class="container">
         <div class="column">
-            <h1>Esperienza Lavorativa</h1>
-            <p>Programmatore Senior - Azienda XYZ</p>
-            <p>Periodo: 2012 - Presente</p>
-            <p>Descrizione: Sviluppo di applicazioni web e gestione del team di sviluppo.</p>
+            <h3 style="color:#ff1e1e;"> Contatti </h3>
+            <p> Cittadella (PD), Italia. </p>
+            <p> +********** </p>
+            <p> pierangelo.somma@liceolucreziocaro.edu.it </p>
+
         </div>
     </div>
 </body>
